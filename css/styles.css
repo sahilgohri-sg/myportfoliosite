@@ -1,0 +1,192 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 6.625rem;
+    color: #66BFBF;
+        
+}
+
+hr {
+    width: 5%;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 6px;
+    margin: 60px auto 60px auto;
+    
+}
+
+span {
+    text-decoration: underline;
+    
+}
+
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    padding-bottom: 10px;
+    
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+
+a {
+    color: #11999E;
+}
+
+
+p {
+    line-height: 2;
+}
+
+
+.my-img {
+    height: 370px;
+    width: 370px;
+    border-radius: 50%;
+    
+}
+
+
+.programmer {
+    font-weight: normal;
+    line-height: 2;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.top-cont {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    
+   
+    
+}
+
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.comp-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+
+/*
+.comp-skill-description {
+    clear: left;
+}
+
+
+.chilli-skill-description {
+    clear: right;
+}
+
+*/
+
+.contact-me {
+    padding-bottom: 100px;
+    line-height: 2;
+}
+
+.btn {
+    margin-top: 40px;
+    display: inline-block;
+    padding: 5px 20px;
+    background-color: #66bfbf;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+    
+}
+
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+
+}
+
+.bottom-container {
+    padding-top: 40px;
+    background-color: #66BFBF;
+    height: 165px;
+}
+
+
+.footer-link {
+    color: #11999E;
+    display: inline-block;
+    width: 130px;
+    font-size: 18px;
+    padding-bottom: 20px;
+    text-decoration: none;
+    
+}
+
+
+.footer-link:hover {
+    color: #EAF6F6;
+}
+
+.contact-message {
+    width: 40%;
+    margin: auto;
+}
+
+.copyright {
+    color: #EAf6f6;
+    font-size: .85rem;
+    margin-bottom: 0;
+}
+
+
+
+    
+    
+
